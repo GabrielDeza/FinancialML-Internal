@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Final_Forecasting_Files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FinancialML_files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gluon-ts" vcs="Git" />
+  </component>
+</project>
